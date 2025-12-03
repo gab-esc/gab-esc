@@ -7,7 +7,7 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-774%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
