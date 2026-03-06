@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-992%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Odin                     16 hrs 10 mins      ███████████████░░░░░░░░░░   59.50 % 
-HTML                     4 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-CSS                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown                 2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Odin                     10 hrs 46 mins      █████████████░░░░░░░░░░░░   50.38 % 
+HTML                     4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+CSS                      2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Markdown                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
 
 🔥 Editors: 
-Neovim                   25 hrs 38 mins      ████████████████████████░   94.40 % 
-Obsidian                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Neovim                   19 hrs 31 mins      ███████████████████████░░   91.28 % 
+Obsidian                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 🐱‍💻 Projects: 
-binho                    16 hrs 2 mins       ███████████████░░░░░░░░░░   59.04 % 
-gab-esc.github.io        6 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-gab.vault                1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-demon-core               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-handmade                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+binho                    8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
+gab-esc.github.io        6 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.89 % 
+demon-core               2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+gab.vault                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+handmade                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 💻 Operating System: 
-Windows                  27 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
