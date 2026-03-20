@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-GDScript3                3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
-Markdown                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Odin                     2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-C                        1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+C                        2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Markdown                 2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+Odin                     2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+GDScript3                2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Lua                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 47 mins       ███████████████████░░░░░░   76.42 % 
-Obsidian                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+Neovim                   8 hrs 29 mins       ███████████████████░░░░░░   77.71 % 
+Obsidian                 2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
 
 🐱‍💻 Projects: 
-learning                 2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-gab.vault                2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-mini-jam-206             2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Unknown Project          1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-tile_editor              46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+learning                 2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+gab.vault                2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+mini-jam-206             2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+tile_editor              1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+demon-core               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Windows                  10 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 
