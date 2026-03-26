@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C030%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C032%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        9 hrs 49 mins       ██████████████████░░░░░░░   72.30 % 
-Odin                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Lua                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Ink                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+C                        11 hrs 29 mins      ██████████████████████░░░   87.48 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Lua                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Ink                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 31 mins      ███████████████████████░░   92.16 % 
-Obsidian                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Neovim                   12 hrs 32 mins      ████████████████████████░   95.52 % 
+Obsidian                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🐱‍💻 Projects: 
-demon-core               6 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.81 % 
-tile_editor              2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-learning                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-gab.vault                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-tilescape                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+demon-core               7 hrs 54 mins       ███████████████░░░░░░░░░░   60.18 % 
+tile_editor              2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+tilescape                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+gab.vault                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+nvim                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 💻 Operating System: 
-Windows                  13 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
