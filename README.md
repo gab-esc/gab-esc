@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        14 hrs 44 mins      ████████████████████░░░░░   80.03 % 
-C++                      2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-TOML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C                        14 hrs 56 mins      █████████████████████░░░░   84.56 % 
+Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+C++                      48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 2 mins       ███████████████████████░░   92.56 % 
-Obsidian                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Neovim                   15 hrs 47 mins      ██████████████████████░░░   89.33 % 
+Obsidian                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.38 % 
-editor                   6 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.66 % 
-handmade                 2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-gab.vault                1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-demon-core               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Unknown Project          7 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.22 % 
+editor                   6 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
+gab.vault                1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+handmade                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+demon-core               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  18 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 
