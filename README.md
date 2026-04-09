@@ -7,29 +7,30 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        14 hrs 54 mins      ██████████████████████░░░   88.60 % 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Lua                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+C                        15 hrs 35 mins      █████████████████████░░░░   85.45 % 
+Markdown                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 56 mins      ██████████████████████░░░   88.73 % 
-Obsidian                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Neovim                   15 hrs 37 mins      █████████████████████░░░░   85.62 % 
+Obsidian                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 39 mins      ████████████████░░░░░░░░░   63.32 % 
-editor                   4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-gab.vault                1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-demon-core               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-nvim                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Unknown Project          14 hrs 1 min        ███████████████████░░░░░░   76.85 % 
+gab.vault                2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+editor                   1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+demon-core               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
