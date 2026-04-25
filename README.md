@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        9 hrs 4 mins        █████████████░░░░░░░░░░░░   52.92 % 
-CSS                      4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-HTML                     3 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C                        7 hrs 15 mins       ███████████░░░░░░░░░░░░░░   44.01 % 
+HTML                     5 hrs               ████████░░░░░░░░░░░░░░░░░   30.34 % 
+CSS                      4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Lua                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 1 min        █████████████████████████   99.22 % 
-Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Neovim                   16 hrs 30 mins      █████████████████████████   99.99 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 6 mins        █████████████░░░░░░░░░░░░   53.10 % 
-gab-esc.github.io        7 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.39 % 
-gab.vault                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-nvim                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-editor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+gab-esc.github.io        9 hrs 5 mins        ██████████████░░░░░░░░░░░   55.03 % 
+Unknown Project          7 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.19 % 
+nvim                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+editor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+gab.vault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  17 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  16 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
