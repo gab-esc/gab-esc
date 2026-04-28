@@ -13,25 +13,22 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 
 ```text
 💬 Programming Languages: 
-HTML                     5 hrs               █████████░░░░░░░░░░░░░░░░   35.80 % 
-C                        4 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.04 % 
-CSS                      4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Lua                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+HTML                     5 hrs               ███████████░░░░░░░░░░░░░░   43.37 % 
+CSS                      4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
+C                        2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Lua                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 59 mins      █████████████████████████   100.00 % 
-Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Neovim                   11 hrs 32 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gab-esc.github.io        9 hrs 5 mins        ████████████████░░░░░░░░░   64.94 % 
-Unknown Project          4 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.15 % 
-nvim                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-editor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-gab.vault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+gab-esc.github.io        9 hrs 5 mins        ████████████████████░░░░░   78.67 % 
+Unknown Project          2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+nvim                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Windows                  13 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
