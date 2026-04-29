@@ -13,22 +13,21 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 
 ```text
 💬 Programming Languages: 
-HTML                     5 hrs               ███████████░░░░░░░░░░░░░░   43.37 % 
-CSS                      4 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.30 % 
-C                        2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Lua                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+HTML                     4 hrs 7 mins        █████████████░░░░░░░░░░░░   51.65 % 
+CSS                      3 hrs               █████████░░░░░░░░░░░░░░░░   37.54 % 
+C                        48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 32 mins      █████████████████████████   100.00 % 
+Neovim                   7 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gab-esc.github.io        9 hrs 5 mins        ████████████████████░░░░░   78.67 % 
-Unknown Project          2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-nvim                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+gab-esc.github.io        7 hrs 7 mins        ██████████████████████░░░   89.19 % 
+Unknown Project          51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 
 💻 Operating System: 
-Windows                  11 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 
