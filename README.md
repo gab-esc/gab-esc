@@ -7,27 +7,30 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2010%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-HTML                     4 hrs 7 mins        █████████████░░░░░░░░░░░░   51.65 % 
-CSS                      3 hrs               █████████░░░░░░░░░░░░░░░░   37.54 % 
-C                        48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+HTML                     4 hrs 12 mins       ███████████████░░░░░░░░░░   60.19 % 
+CSS                      2 hrs 40 mins       ██████████░░░░░░░░░░░░░░░   38.26 % 
+C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 59 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 58 mins       █████████████████████████   99.95 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-gab-esc.github.io        7 hrs 7 mins        ██████████████████████░░░   89.19 % 
-Unknown Project          51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+gab-esc.github.io        6 hrs 52 mins       █████████████████████████   98.45 % 
+d-grav                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+gab.vault                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  7 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
