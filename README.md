@@ -7,29 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C107%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 5 mins        ██████████████████░░░░░░░   71.57 % 
-HTML                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-gitignore                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Markdown                 5 hrs 56 mins       █████████████████░░░░░░░░   69.01 % 
+HTML                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+C                        1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+gitignore                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-Obsidian                 4 hrs 5 mins        ██████████████████░░░░░░░   71.55 % 
-Neovim                   1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+Obsidian                 5 hrs 56 mins       █████████████████░░░░░░░░   69.00 % 
+Neovim                   2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
 
 🐱‍💻 Projects: 
-gab.vault                4 hrs 5 mins        ██████████████████░░░░░░░   71.55 % 
-gab-esc.github.io        1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
-d-grav                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+gab.vault                5 hrs 56 mins       █████████████████░░░░░░░░   69.00 % 
+gab-esc.github.io        1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+d-grav                   1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Unknown Project          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+binho                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
