@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C117%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 32 mins       ██████████████░░░░░░░░░░░   57.50 % 
-C                        4 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
-Batchfile                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Markdown                 6 hrs 35 mins       █████████████░░░░░░░░░░░░   51.19 % 
+C                        5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.23 % 
+Lua                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Batchfile                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Obsidian                 7 hrs 32 mins       ██████████████░░░░░░░░░░░   57.45 % 
-Neovim                   5 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.55 % 
+Obsidian                 6 hrs 34 mins       █████████████░░░░░░░░░░░░   51.14 % 
+Neovim                   6 hrs 17 mins       ████████████░░░░░░░░░░░░░   48.86 % 
 
 🐱‍💻 Projects: 
-gab.vault                7 hrs 32 mins       ██████████████░░░░░░░░░░░   57.45 % 
-Frozen-Blood             2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-demon-core               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-d-grav                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-gab-esc.github.io        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+gab.vault                6 hrs 34 mins       █████████████░░░░░░░░░░░░   51.14 % 
+Frozen-Blood             3 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+demon-core               1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+d-grav                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+nvim                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-Windows                  13 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
