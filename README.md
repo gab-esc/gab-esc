@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 59 mins       █████████████░░░░░░░░░░░░   53.61 % 
-C                        1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Odin                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Batchfile                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Lua                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Markdown                 6 hrs 2 mins        ███████████████░░░░░░░░░░   61.20 % 
+Odin                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+C                        54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Batchfile                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 14 mins       ██████████████░░░░░░░░░░░   56.24 % 
-Obsidian                 4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.76 % 
+Obsidian                 5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.91 % 
+Neovim                   4 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.09 % 
 
 🐱‍💻 Projects: 
-gab.vault                4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.76 % 
-binho                    3 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
-Frozen-Blood             1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-nvim                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+gab.vault                5 hrs 7 mins        █████████████░░░░░░░░░░░░   51.91 % 
+binho                    3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Frozen-Blood             45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+nvim                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 
 💻 Operating System: 
-Windows                  9 hrs 18 mins       █████████████████████████   99.99 % 
+Windows                  9 hrs 52 mins       █████████████████████████   99.99 % 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
