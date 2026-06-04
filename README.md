@@ -13,26 +13,26 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 
 ```text
 💬 Programming Languages: 
-C                        6 hrs 35 mins       ████████████████░░░░░░░░░   65.46 % 
-Markdown                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-Odin                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Objective-C              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C                        5 hrs 56 mins       ███████████████░░░░░░░░░░   61.95 % 
+Markdown                 2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+Odin                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Objective-C              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 8 mins        ██████████████████░░░░░░░   70.95 % 
-Obsidian                 2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Neovim                   6 hrs 40 mins       █████████████████░░░░░░░░   69.51 % 
+Obsidian                 2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
 
 🐱‍💻 Projects: 
-d-grav                   6 hrs 43 mins       █████████████████░░░░░░░░   66.72 % 
-gab.vault                2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-gab-esc.github.io        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-binho                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+d-grav                   5 hrs 46 mins       ███████████████░░░░░░░░░░   60.10 % 
+gab.vault                2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
+Unknown Project          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+binho                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+gab-esc.github.io        13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Windows                  9 hrs 22 mins       ███████████████████████░░   93.07 % 
-Linux                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Windows                  8 hrs 54 mins       ███████████████████████░░   92.72 % 
+Linux                    41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 ```
 
 
