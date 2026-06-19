@@ -7,31 +7,29 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C168%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C171%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        1 hr 52 mins        ███████████░░░░░░░░░░░░░░   45.61 % 
-Batchfile                43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Odin                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Todotxt                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Odin                     3 hrs 48 mins       ██████████████░░░░░░░░░░░   55.47 % 
+C                        1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+Batchfile                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Todotxt                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 37 mins       ██████████████████████░░░   87.89 % 
-Obsidian                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Neovim                   6 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-d-grav                   1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.04 % 
-raddebugger              1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   34.73 % 
-Unknown Project          34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-gab.vault                29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-nvim                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Unknown Project          3 hrs 53 mins       ██████████████░░░░░░░░░░░   56.72 % 
+d-grav                   1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+raddebugger              1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+binho                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
