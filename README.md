@@ -7,31 +7,29 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C185%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Odin                     16 hrs 2 mins       ███████████████████████░░   91.67 % 
-Batchfile                41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-C                        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Odin                     16 hrs 24 mins      █████████████████████████   98.51 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 18 mins      █████████████████████████   98.85 % 
-Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Neovim                   16 hrs 27 mins      █████████████████████████   98.71 % 
+Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 56 mins      █████████████████████░░░░   85.31 % 
-game-face-the-court      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-raddebugger              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-gab.vault                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-d-grav                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Unknown Project          15 hrs 12 mins      ███████████████████████░░   91.27 % 
+game-face-the-court      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+gab.vault                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+binho                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  17 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
