@@ -7,28 +7,27 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C190%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Odin                     14 hrs 57 mins      █████████████████████████   98.31 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Odin                     17 hrs 15 mins      █████████████████████████   99.60 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Neovim                   14 hrs 59 mins      █████████████████████████   98.59 % 
-Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Neovim                   17 hrs 16 mins      █████████████████████████   99.66 % 
+Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-Unknown Project          13 hrs 45 mins      ███████████████████████░░   90.50 % 
-game-face-the-court      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-gab.vault                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Unknown Project          16 hrs 21 mins      ████████████████████████░   94.39 % 
+game-face-the-court      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+gab.vault                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  15 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
