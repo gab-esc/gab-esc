@@ -7,32 +7,32 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C199%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Odin                     10 hrs 52 mins      ██████████████████████░░░   89.71 % 
-C                        18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Batchfile                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Todotxt                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Odin                     7 hrs 34 mins       ██████████████████░░░░░░░   70.33 % 
+C                        1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Bash                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Batchfile                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 2 mins       █████████████████████████   99.38 % 
-Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Neovim                   10 hrs 41 mins      █████████████████████████   99.30 % 
+Obsidian                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 hrs 5 mins       ███████████████████████░░   91.54 % 
-game-face-the-court      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-binho                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-odin-raylib-web          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-my-game                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Unknown Project          9 hrs 27 mins       ██████████████████████░░░   87.89 % 
+game-face-the-court      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+raddebugger              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+binho                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+odin-raylib-web          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Windows                  10 hrs 47 mins      ██████████████████████░░░   89.03 % 
-Linux                    1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Windows                  7 hrs 29 mins       █████████████████░░░░░░░░   69.57 % 
+Linux                    3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.43 % 
 ```
 
 
