@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C208%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Bash                     4 hrs 38 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
-C                        2 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-Odin                     1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Batchfile                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Bash                     4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
+C                        4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
+Odin                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 46 mins      █████████████████████████   100.00 % 
+Neovim                   11 hrs 48 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 18 mins       ███████████████████░░░░░░   77.02 % 
-raddebugger              1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-rayjam6                  1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-odin-raylib-web          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-my-game                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Unknown Project          7 hrs 57 mins       █████████████████░░░░░░░░   67.35 % 
+rayjam6                  2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+raddebugger              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+odin-raylib-web          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+my-game                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Linux                    9 hrs 21 mins       ██████████████████████░░░   86.84 % 
-Windows                  1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Linux                    10 hrs 48 mins      ███████████████████████░░   91.47 % 
+Windows                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 ```
 
 
