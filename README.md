@@ -7,29 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C219%20hrs%2037%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        9 hrs 34 mins       ████████████████░░░░░░░░░   63.61 % 
-Bash                     4 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-Org                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Batchfile                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+C                        10 hrs 35 mins      ████████████████░░░░░░░░░   65.80 % 
+Bash                     3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+Batchfile                1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Org                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 2 mins       █████████████████████████   100.00 % 
+Neovim                   16 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rayjam6                  7 hrs 56 mins       █████████████░░░░░░░░░░░░   52.74 % 
-Unknown Project          5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
-raddebugger              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-raylib-gamejam           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+rayjam6                  10 hrs 43 mins      █████████████████░░░░░░░░   66.60 % 
+Unknown Project          4 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+raddebugger              1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+raylib-gamejam           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+nvim                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    15 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 22 mins      █████████████████████░░░░   83.07 % 
+Windows                  2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 ```
 
 
