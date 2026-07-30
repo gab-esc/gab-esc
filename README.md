@@ -7,31 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        10 hrs 38 mins      ██████████████████████░░░   86.16 % 
-Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-Batchfile                46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C                        8 hrs 19 mins       ██████████████████████░░░   88.39 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Batchfile                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Lua                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 35 mins      ███████████████████████░░   93.80 % 
-Obsidian                 45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Neovim                   8 hrs 44 mins       ███████████████████████░░   92.91 % 
+Obsidian                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 
 🐱‍💻 Projects: 
-gmtk-2026                5 hrs 32 mins       ███████████░░░░░░░░░░░░░░   44.85 % 
-Mushrun                  5 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.33 % 
-gab.vault                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-d-grav                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-raylib                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Mushrun                  4 hrs 32 mins       ████████████░░░░░░░░░░░░░   48.19 % 
+gmtk-2026                3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.12 % 
+gab.vault                41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+d-grav                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+raylib                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-Windows                  12 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
