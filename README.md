@@ -13,21 +13,19 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 
 ```text
 💬 Programming Languages: 
-C                        7 hrs 27 mins       ███████████████████████░░   92.95 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-conf                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+C                        5 hrs 14 mins       ███████████████████████░░   91.72 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 29 mins       ███████████████████████░░   93.28 % 
-Obsidian                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Neovim                   5 hrs 14 mins       ███████████████████████░░   91.72 % 
+Obsidian                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🐱‍💻 Projects: 
-enter-the-zombies        7 hrs 27 mins       ███████████████████████░░   92.95 % 
-gab.vault                32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+enter-the-zombies        5 hrs 14 mins       ███████████████████████░░   91.72 % 
+gab.vault                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 💻 Operating System: 
-Windows                  8 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
