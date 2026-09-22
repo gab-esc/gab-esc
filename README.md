@@ -7,25 +7,25 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C332%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C333%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        12 mins             ████████████████████████░   97.36 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Markdown                 1 hr 19 mins        ██████████████████████░░░   86.37 % 
+C                        12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🔥 Editors: 
-Neovim                   12 mins             ████████████████████████░   97.36 % 
-Obsidian                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Obsidian                 1 hr 19 mins        ██████████████████████░░░   86.37 % 
+Neovim                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🐱‍💻 Projects: 
-enter-the-zombies        12 mins             ████████████████████████░   97.36 % 
-gab.vault                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+gab.vault                1 hr 19 mins        ██████████████████████░░░   86.37 % 
+enter-the-zombies        12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 💻 Operating System: 
-Windows                  12 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
