@@ -7,22 +7,22 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs               █████████████████████████   100.00 % 
+Markdown                 7 hrs 42 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 6 hrs               █████████████████████████   100.00 % 
+Obsidian                 7 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gab.vault                6 hrs               █████████████████████████   100.00 % 
+gab.vault                7 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
