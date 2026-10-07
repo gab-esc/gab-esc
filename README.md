@@ -7,22 +7,22 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C340%20hrs%2013%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        13 mins             █████████████████████████   100.00 % 
+C                        2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Neovim                   13 mins             █████████████████████████   100.00 % 
+Neovim                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-enter-the-zombies        13 mins             █████████████████████████   100.00 % 
+enter-the-zombies        2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
