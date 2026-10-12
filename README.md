@@ -7,29 +7,29 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2036%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-GDScript3                1 hr 44 mins        █████████████░░░░░░░░░░░░   53.94 % 
-C                        54 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-Batchfile                19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
-Lua                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-GDScript                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+GDScript3                1 hr 44 mins        █████████████░░░░░░░░░░░░   50.20 % 
+C                        1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Batchfile                19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Lua                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+GDScript                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 13 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 59 mins       ███████████████████████░░   93.18 % 
-nvim                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-catprinter               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-enter-the-zombies        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Unknown Project          3 hrs 14 mins       ███████████████████████░░   93.65 % 
+nvim                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+catprinter               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+enter-the-zombies        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
