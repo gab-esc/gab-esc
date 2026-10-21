@@ -7,28 +7,28 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C354%20hrs%2015%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        5 hrs 15 mins       █████████████████████░░░░   85.80 % 
-GDScript3                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Batchfile                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+C                        6 hrs 45 mins       ██████████████████░░░░░░░   72.31 % 
+YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+GDScript3                59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Batchfile                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 7 mins        █████████████████████████   100.00 % 
+Neovim                   9 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.30 % 
-enter-the-zombies        2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
-by-us                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Unknown Project          3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.94 % 
+enter-the-zombies        3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.79 % 
+by-us                    2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
