@@ -7,30 +7,30 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        5 hrs 36 mins       ████████████████░░░░░░░░░   63.70 % 
-YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-GDScript3                1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Batchfile                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Lua                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+C                        4 hrs 47 mins       ███████████████░░░░░░░░░░   60.40 % 
+YAML                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+GDScript3                1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Lua                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Batchfile                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 35 mins       ████████████████████████░   97.55 % 
-Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Neovim                   7 hrs 43 mins       ████████████████████████░   97.28 % 
+Obsidian                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   40.35 % 
-by-us                    2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-enter-the-zombies        2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-gab.vault                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Unknown Project          2 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   33.80 % 
+by-us                    2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   32.82 % 
+enter-the-zombies        2 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   30.67 % 
+gab.vault                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-Windows                  8 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
