@@ -7,30 +7,31 @@ Check out my games [here](https://gabiru-exe.itch.io/)!
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C362%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C                        5 hrs 22 mins       ████████████████████████░   94.20 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-GDScript3                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C                        5 hrs 37 mins       ████████████████████████░   96.18 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Batchfile                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 29 mins       ████████████████████████░   96.13 % 
-Obsidian                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Neovim                   5 hrs 42 mins       ████████████████████████░   97.40 % 
+Obsidian                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 6 mins        ██████████████░░░░░░░░░░░   54.45 % 
-enter-the-zombies        1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-raylib                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-gab.vault                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-by-us                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Unknown Project          3 hrs 46 mins       ████████████████░░░░░░░░░   64.52 % 
+enter-the-zombies        1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+raylib                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+raddebugger              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+gab.vault                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Windows                  5 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
